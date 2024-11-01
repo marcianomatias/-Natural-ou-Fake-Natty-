@@ -64,4 +64,3 @@ Por fim, uma lista abrangente de livros, artigos e recursos adicionais é aprese
 
 ---
 
-Caso deseje que eu crie imagens para complementar este e-book, por favor, informe-me! Se não, sinta-se à vontade para utilizar este conteúdo expandido como base para sua criação.
